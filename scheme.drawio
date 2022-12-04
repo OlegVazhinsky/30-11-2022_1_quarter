@@ -1,0 +1,205 @@
+<mxfile host="65bd71144e">
+    <diagram id="JsK8MWlABGiggZUFgj-G" name="main">
+        <mxGraphModel dx="286" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="kATBTwD3t1sSVLismZvU-12" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="160" as="sourcePoint"/>
+                        <mxPoint x="200" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-13" value="СТАРТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="80" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-14" value="Вывод элементов введенного массива&lt;br&gt;Метод ShowArray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="320" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-15" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="199.58000000000038" y="280" as="sourcePoint"/>
+                        <mxPoint x="199.58000000000038" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-16" value="Ввод элементов массива пользователем&lt;br&gt;Метод GetArray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="200" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-17" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="400" as="sourcePoint"/>
+                        <mxPoint x="200" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-18" value="Вывод элементов фильтррованного массива&lt;br&gt;Метод ShowArray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="560" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-19" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="199.58000000000038" y="520" as="sourcePoint"/>
+                        <mxPoint x="199.58000000000038" y="560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-20" value="Фильтрация массива пользователя&lt;br&gt;Метод FilterElementsInArray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="440" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-21" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="680" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="kATBTwD3t1sSVLismZvU-22" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="199.58000000000038" y="640" as="sourcePoint"/>
+                        <mxPoint x="199.58000000000038" y="680" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="RWxt-XOnY7t5PxbnWv-T" name="ShowArray">
+        <mxGraphModel dx="286" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="STbvIX241gjN_fw4-EaS-0"/>
+                <mxCell id="STbvIX241gjN_fw4-EaS-1" parent="STbvIX241gjN_fw4-EaS-0"/>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-0" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="STbvIX241gjN_fw4-EaS-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="160" as="sourcePoint"/>
+                        <mxPoint x="520" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-1" value="СТАРТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="440" y="80" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-2" value="Вывести пустые скобки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="760" y="320" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-3" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="STbvIX241gjN_fw4-EaS-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="519.5799999999999" y="280" as="sourcePoint"/>
+                        <mxPoint x="519.5799999999999" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-4" value="Вывести сообщение об информации выводимого массива" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="400" y="200" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-5" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="STbvIX241gjN_fw4-EaS-1" source="jZXJTyu2ElQJpBjduFwF-6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="519.5799999999999" y="560" as="sourcePoint"/>
+                        <mxPoint x="519.5799999999999" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-6" value="Вывести элементы массива в зависимости от их местоположения" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="400" y="440" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-7" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="440" y="600" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-8" value="" style="edgeStyle=none;html=1;strokeWidth=3;strokeColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="400" as="sourcePoint"/>
+                        <mxPoint x="520" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-9" value="Массив пуст или пользователь&lt;br&gt;ничего не вел?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="400" y="320" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-10" value="НЕТ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=14;fontStyle=1" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="560" y="400" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-11" value="ДА" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=14;" parent="STbvIX241gjN_fw4-EaS-1" vertex="1">
+                    <mxGeometry x="680" y="320" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-12" value="" style="edgeStyle=none;html=1;strokeWidth=3;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="STbvIX241gjN_fw4-EaS-1" target="jZXJTyu2ElQJpBjduFwF-2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="640" y="360" as="sourcePoint"/>
+                        <mxPoint x="640" y="399.9999999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jZXJTyu2ElQJpBjduFwF-13" value="" style="edgeStyle=none;html=1;strokeWidth=3;strokeColor=#000000;" parent="STbvIX241gjN_fw4-EaS-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="879.6599999999999" y="400" as="sourcePoint"/>
+                        <mxPoint x="520" y="560" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="880" y="560"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="vBD9Hd_LPXIXLK45o4LJ" name="GetArray">
+        <mxGraphModel dx="286" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="9WsPJUHHLYe6N35Qan81-0"/>
+                <mxCell id="9WsPJUHHLYe6N35Qan81-1" parent="9WsPJUHHLYe6N35Qan81-0"/>
+                <mxCell id="C2xZiUQkqz9IESOU1UvE-0" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="9WsPJUHHLYe6N35Qan81-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="160" as="sourcePoint"/>
+                        <mxPoint x="200" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="C2xZiUQkqz9IESOU1UvE-1" value="СТАРТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="9WsPJUHHLYe6N35Qan81-1" vertex="1">
+                    <mxGeometry x="120" y="80" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="C2xZiUQkqz9IESOU1UvE-3" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="9WsPJUHHLYe6N35Qan81-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="199.57999999999993" y="280" as="sourcePoint"/>
+                        <mxPoint x="199.57999999999993" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="C2xZiUQkqz9IESOU1UvE-4" value="Вывести сообщение пользователю с приглшением к вводу элементов массива, с указанием разделителя" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="9WsPJUHHLYe6N35Qan81-1" vertex="1">
+                    <mxGeometry x="80" y="200" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="C2xZiUQkqz9IESOU1UvE-7" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="9WsPJUHHLYe6N35Qan81-1" vertex="1">
+                    <mxGeometry x="120" y="440" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="C2xZiUQkqz9IESOU1UvE-8" value="" style="edgeStyle=none;html=1;strokeWidth=3;strokeColor=#000000;" parent="9WsPJUHHLYe6N35Qan81-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="400" as="sourcePoint"/>
+                        <mxPoint x="200" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="HVQfl46ogkZ7dmZWa20Z-0" value="Считать значения с клавиатуры с использованием разделителя" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" parent="9WsPJUHHLYe6N35Qan81-1" vertex="1">
+                    <mxGeometry x="80" y="320" width="240" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="6qNpiqrYl9-pmfoAdLwq" name="FilterElemntsInArray">
+        <mxGraphModel dx="793" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="ILIsPqi3r47MSYpVtsHO-0"/>
+                <mxCell id="ILIsPqi3r47MSYpVtsHO-1" parent="ILIsPqi3r47MSYpVtsHO-0"/>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-0" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" edge="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="160" as="sourcePoint"/>
+                        <mxPoint x="200" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-1" value="СТАРТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" vertex="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry x="120" y="80" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-2" value="Создать и заполнить новый массив элементами, длина которых менее или равна заданному размеру&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry x="80" y="320" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-3" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;" edge="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="199.57999999999993" y="280" as="sourcePoint"/>
+                        <mxPoint x="199.57999999999993" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-4" value="Определить количество элементов, длина которых менее или равна заданному размеру" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry x="80" y="200" width="240" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-7" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" vertex="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry x="120" y="440" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="EFf-gbEVbgguQXCXo3MP-8" value="" style="edgeStyle=none;html=1;strokeWidth=3;strokeColor=#000000;" edge="1" parent="ILIsPqi3r47MSYpVtsHO-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="400" as="sourcePoint"/>
+                        <mxPoint x="200" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
